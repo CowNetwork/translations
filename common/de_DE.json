@@ -1,7 +1,12 @@
 {
   "common": {
-    "date_format": "dd.MM.yyyy",
-    "time_format": "HH:mm:ss '('z')'",
-    "date_time_format": "dd.MM.yyyy um HH:mm:ss '('z')'"
+    "id": "ID: {1}",
+    "reason": "Grund: {1}",
+    "error": "Fehlermeldung: {1}",
+    "date_time": {
+      "date_format": "dd.MM.yyyy",
+      "time_format": "HH:mm:ss '('z')'",
+      "date_time_format": "dd.MM.yyyy um HH:mm:ss '('z')'"
+    }
   }
 }

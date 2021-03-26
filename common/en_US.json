@@ -1,7 +1,12 @@
 {
   "common": {
-    "date_format": "MM/dd/yyyy",
-    "time_format": "HH:mm:ss '('z')'",
-    "date_time_format": "MM/dd/yyyy at HH:mm:ss '('z')'"
+    "id": "ID: {1}",
+    "reason": "Reason: {1}",
+    "error": "Error Message: {1}",
+    "date_time": {
+      "date_format": "MM/dd/yyyy",
+      "time_format": "HH:mm:ss '('z')'",
+      "date_time_format": "MM/dd/yyyy at HH:mm:ss '('z')'"
+    }
   }
 }
