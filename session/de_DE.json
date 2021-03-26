@@ -1,6 +1,7 @@
 {
   "session": {
     "id": "Session-ID: {1}",
+    "ban_id": "Bann-ID: {1}",
     "stop_causes": {
       "kicked": "Du wurdest gekickt.",
       "banned": "Du bist {1} gebannt.",
