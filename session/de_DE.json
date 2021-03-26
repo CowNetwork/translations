@@ -1,0 +1,15 @@
+{
+  "session": {
+    "stop_causes": {
+      "kicked": "Du wurdest gekickt.",
+      "banned": "Du bist {1} gebannt.",
+      "maintenance": "Das Netzwerk ist in Wartungsmodus. Bitte versuche es später erneut.",
+      "error": "Die Verbindung wurde durch einen Fehler beendet.",
+      "unknown": "Die Verbindung ist abgebrochen. Bitte versuche es erneut."
+    },
+    "banned": {
+      "duration_permanent": "permament",
+      "duration_until": "bis zum {1}"
+    }
+  }
+}

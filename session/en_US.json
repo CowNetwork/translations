@@ -1,0 +1,15 @@
+{
+  "session": {
+    "stop_causes": {
+      "kicked": "You have been kicked.",
+      "banned": "You have been banned {1}.",
+      "maintenance": "The network is in maintenance mode. Please try again later.",
+      "error": "The session has been closed due to an error.",
+      "unknown": "Something went wrong. Please try again."
+    },
+    "banned": {
+      "duration_permanent": "permanently",
+      "duration_until": "until {1}"
+    }
+  }
+}

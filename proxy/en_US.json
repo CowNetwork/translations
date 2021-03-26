@@ -1,0 +1,14 @@
+{
+  "proxy": {
+    "common": {
+      "id": "ID: {1}",
+      "reason": "Reason: {1}",
+      "error": "Error Message: {1}"
+    },
+    "errors": {
+      "initial_server_not_found": "The initial target server could not be found.",
+      "server_not_found": "The target server could not be found.",
+      "server_connection_failed": "Unable to establish a connection to the target server."
+    }
+  }
+}
