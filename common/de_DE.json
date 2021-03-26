@@ -1,0 +1,7 @@
+{
+  "common": {
+    "date_format": "dd.MM.yyyy",
+    "time_format": "HH:mm:ss '('z')'",
+    "date_time_format": "dd.MM.yyyy um HH:mm:ss '('z')'"
+  }
+}
