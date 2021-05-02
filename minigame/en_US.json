@@ -1,0 +1,33 @@
+{
+  "minigame": {
+    "messages": {
+      "player_joined": "{1} joined the game.",
+      "player_left": "{1} left the game."
+    },
+    "countdown": {
+      "units": {
+        "minute": "one minute",
+        "minutes": "{1} minutes",
+        "second": "one second",
+        "seconds": "{2} seconds"
+      },
+      "single_unit_left": "There is {1} left.",
+      "units_left": "There are {2} left."
+    },
+    "pools": {
+      "world": {
+        "builders": "Builders"
+      }
+    },
+    "phase": {
+      "vote": {
+        "title": "Voting",
+        "votes": "Votes: {1}",
+        "votes_left": "Votes left: {1}/{2}",
+        "click_to_vote": "Click to vote.",
+        "click_to_unvote": "Click to remove your vote.",
+        "no_votes_left": "You don't have any votes left."
+      }
+    }
+  }
+}
