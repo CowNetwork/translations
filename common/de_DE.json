@@ -10,7 +10,7 @@
     },
     "minute": {
       "singular": "{1} Minute",
-      "plural": "{1} Minuten",
+      "plural": "{1} Minuten"
     },
     "second": {
       "singular": "{1} Sekunde",
