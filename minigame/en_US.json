@@ -17,7 +17,7 @@
         "singular": "The next phase starts in {1}.",
         "plural": "The next phase starts in {1}."
       },
-      "game_start" {
+      "game_start": {
         "singular": "The game starts in {1}.",
         "plural": "The game starts in {1}."
       },
