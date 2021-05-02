@@ -7,6 +7,14 @@
       "date_format": "MM/dd/yyyy",
       "time_format": "HH:mm:ss '('z')'",
       "date_at_time": "{1} at {2}"
+    },
+    "minute": {
+      "singular": "{1} minute",
+      "plural": "{1} minutes",
+    },
+    "second": {
+      "singular": "{1} second",
+      "plural": "{2} seconds"
     }
   }
 }
