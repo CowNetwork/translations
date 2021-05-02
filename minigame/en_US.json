@@ -1,18 +1,26 @@
 {
   "minigame": {
-    "messages": {
-      "player_joined": "{1} joined the game.",
-      "player_left": "{1} left the game."
+    "player": {
+      "joined": "{1} joined the game.",
+      "left": "{1} left the game."
     },
     "countdown": {
-      "units": {
-        "minute": "one minute",
-        "minutes": "{1} minutes",
-        "second": "one second",
-        "seconds": "{2} seconds"
+      "generic": {
+        "singular": "There is {1} left.",
+        "plural": "There are {1} left."
       },
-      "single_unit_left": "There is {1} left.",
-      "units_left": "There are {2} left."
+      "phase_timeout": {
+        "singular": "The phase ends in {1}.",
+        "plural": "The phase ends in {1}."
+      },
+      "phase_end": {
+        "singular": "The next phase starts in {1}.",
+        "plural": "The next phase starts in {1}."
+      },
+      "shutdown": {
+        "singular": "The server stops in {1}.",
+        "plural": "The server stops in {1}."
+      }
     },
     "pools": {
       "world": {
