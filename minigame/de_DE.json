@@ -1,0 +1,41 @@
+{
+  "minigame": {
+    "player": {
+      "joined": "{1} hat das Spiel betreten.",
+      "left": "{1} has das Spiel verlassen."
+    },
+    "countdown": {
+      "generic": {
+        "singular": "Es ist {1} übrig.",
+        "plural": "Es sind {2} übrig."
+      },
+      "phase_timeout": {
+        "singular": "Die Phase endet in {1}.",
+        "plural": "Die Phase endet in {1}."
+      },
+      "phase_end": {
+        "singular": "Die nächste Phase beginnt in {1}.",
+        "plural": "Die nächste Phase beginnt in {1}."
+      },
+      "shutdown": {
+        "singular": "Die Server stoppt in {1}.",
+        "plural": "Die Server stoppt in {1}."
+      }
+    },
+    "pools": {
+      "world": {
+        "builders": "Erbauer"
+      }
+    },
+    "phase": {
+      "vote": {
+        "title": "Abstimmung",
+        "votes": "Stimmen: {1}",
+        "votes_left": "Stimmen übrig: {1}/{2}",
+        "click_to_vote": "Klicke, um abzustimmen.",
+        "click_to_unvote": "Klicke, um deine Stimme zu entfernen.",
+        "no_votes_left": "Du hast keine Stimmen mehr übrig."
+      }
+    }
+  }
+}
