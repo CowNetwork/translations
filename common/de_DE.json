@@ -14,7 +14,7 @@
     },
     "second": {
       "singular": "{1} Sekunde",
-      "plural": "{2} Sekunden"
+      "plural": "{1} Sekunden"
     }
   }
 }
