@@ -17,6 +17,10 @@
         "singular": "Die nächste Phase beginnt in {1}.",
         "plural": "Die nächste Phase beginnt in {1}."
       },
+      "game_start": {
+        "singular": "Das Spiel startet in {1}.",
+        "plural": "Das Spiel startet in {1}."
+      },
       "shutdown": {
         "singular": "Die Server stoppt in {1}.",
         "plural": "Die Server stoppt in {1}."
@@ -28,6 +32,12 @@
       }
     },
     "phase": {
+      "lobby": {
+        "waiting_for_players": {
+          "singular": "Warte auf {1} weiteren Spieler.",
+          "plural": "Warte auf {1} weitere Spieler."
+        }
+      },
       "vote": {
         "title": "Abstimmung",
         "votes": "Stimmen: {1}",
