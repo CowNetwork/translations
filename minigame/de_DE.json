@@ -36,7 +36,8 @@
         "waiting_for_players": {
           "singular": "Warte auf {1} weiteren Spieler.",
           "plural": "Warte auf {1} weitere Spieler."
-        }
+        },
+        "full": "Diese Runde ist bereits voll."
       },
       "vote": {
         "title": "Abstimmung",
