@@ -36,7 +36,8 @@
         "waiting_for_players": {
           "singular": "Waiting for {1} more player.",
           "plural": "Waiting for {1} more players."
-        }
+        },
+        "full": "This game is already full."
       },
       "vote": {
         "title": "Voting",
