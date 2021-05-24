@@ -18,7 +18,7 @@
     },
     "state": {
       "enabled": "aktiviert",
-      "disabled": "deaktiviert",
+      "disabled": "deaktiviert"
     },
     "command": {
       "error": {
