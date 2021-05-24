@@ -15,6 +15,16 @@
     "second": {
       "singular": "{1} second",
       "plural": "{1} seconds"
+    },
+    "state": {
+      "enabled": "enabled",
+      "disabled": "disabled",
+    },
+    "command": {
+      "error": {
+        "requires_player": "This command must be executed as a player.",
+        "player_not_found": "The player does not exist."
+      }
     }
   }
 }

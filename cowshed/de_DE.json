@@ -1,0 +1,22 @@
+{
+  "cowshed": {
+    "join": {
+      "0": "{1} hat den Server betreten.",
+      "1": "{1} hat den Server betreten. Tut beschäftigt!",
+      "2": "{1} has den Server betreten. Versteckt die Bananen!",
+      "3": "{1} ist gerade in den Server geslided.",
+      "4": "Ein wildes {1} erscheint.",
+      "5": "Haltet euch fest. {1} hat den Server betreten.",
+      "6": "{1} ist aufgetaucht. Hold my beer.",
+      "7": "{1} ist da, wie es die Prophezeiung vorhergesagt hat.",
+      "8": "{1} ist angekommen. Die Party ist vorbei.",
+      "9": "{1} ist da.",
+      "10": "Willkommen {1}. Wir hoffen du hast Pizza dabei.",
+      "11": "Willkommen {1}. Sagt hallo!",
+      "12": "Schön dich zu sehen, {1}."
+    },
+    "sonic": {
+      "item_name": "Sonics Söckchen"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "cowshed": {
+    "join": {
+      "0": "{1} just joined the server.",
+      "1": "{1} just joined. Everyone, look busy!",
+      "2": "{1} just joined. Hide your bananas!",
+      "3": "{1} just slid into the server.",
+      "4": "A wild {1} appeared.",
+      "5": "Brace yourselves. {1} just joined the server.",
+      "6": "{1} just showed up. Hold my beer.",
+      "7": "{1} is here, as the prophecy foretold.",
+      "8": "{1} has arrived. Party's over.",
+      "9": "{1} is here.",
+      "10": "Welcome {1}. We hope you brought pizza.",
+      "11": "Welcome {1}. Say hi!",
+      "12": "Good to see you, {1}."
+    },
+    "sonic": {
+      "item_name": "Sonic's Socks"
+    }
+  }
+}

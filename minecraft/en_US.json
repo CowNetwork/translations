@@ -1,0 +1,26 @@
+{
+  "minecraft": {
+    "build": {
+      "message": {
+        "state": "Build has been {1} for player {2}.",
+        "enabled": "There you go little fella ({1}).",
+        "disabled": "Playing time is over ({1})."
+      },
+      "state": {
+        "enabled": "build enabled",
+        "disabled": "build disabled"
+      }
+    },
+    "fly": {
+      "message": {
+        "state": "Flight has been {1} for player {2}.",
+        "enabled": "I believe you can fly now ({1}).",
+        "disabled": "Whoops, seems like your wings are broken ({1})."
+      },
+      "state": {
+        "enabled": "flight enabled",
+        "disabled": "flight disabled"
+      }
+    }
+  }
+}

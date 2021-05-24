@@ -1,0 +1,26 @@
+{
+  "minecraft": {
+    "build": {
+      "message": {
+        "state": "Build wurde für {2} {1}.",
+        "enabled": "There you go little fella ({1}).",
+        "disabled": "Die Spielzeit ist vorbei ({1})."
+      },
+      "state": {
+        "enabled": "build aktiviert",
+        "disabled": "build deaktiviert"
+      }
+    },
+    "fly": {
+      "message": {
+        "state": "Fly wurde für {2} {1}.",
+        "enabled": "Du kannst jetzt fliegen ({1}).",
+        "disabled": "Ups, deine Flügel sind kaputt gegangen ({1})."
+      },
+      "state": {
+        "enabled": "fly aktiviert",
+        "disabled": "fly deaktiviert"
+      }
+    }
+  }
+}
