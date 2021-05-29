@@ -7,7 +7,7 @@
     "countdown": {
       "generic": {
         "singular": "Es ist {1} übrig.",
-        "plural": "Es sind {2} übrig."
+        "plural": "Es sind {1} übrig."
       },
       "phase_timeout": {
         "singular": "Die Phase endet in {1}.",
