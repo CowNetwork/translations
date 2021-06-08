@@ -46,6 +46,11 @@
         "click_to_vote": "Click to vote.",
         "click_to_unvote": "Click to remove your vote.",
         "no_votes_left": "You don't have any votes left."
+      },
+      "end": {
+        "no_winners": "Nobody won the game.",
+        "ranking": "{1} place: {2}",
+        "your_rank": "Your place: {1}"
       }
     }
   }

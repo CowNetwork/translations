@@ -25,6 +25,11 @@
         "requires_player": "Dieser Befehlt muss als Spieler ausgeführt werden.",
         "player_not_found": "Der Spieler existiert nicht."
       }
+    },
+    "ranking": {
+      "first": "1.",
+      "second": "2.",
+      "third": "3."
     }
   }
 }

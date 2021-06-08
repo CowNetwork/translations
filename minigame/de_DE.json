@@ -46,6 +46,11 @@
         "click_to_vote": "Klicke, um abzustimmen.",
         "click_to_unvote": "Klicke, um deine Stimme zu entfernen.",
         "no_votes_left": "Du hast keine Stimmen mehr übrig."
+      },
+      "end": {
+        "no_winners": "Niemand hat das Spiel gewonnen.",
+        "ranking": "{1} Platz: {2}",
+        "your_rank": "Dein Platz: {1}"
       }
     }
   }

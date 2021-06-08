@@ -25,6 +25,11 @@
         "requires_player": "This command must be executed as a player.",
         "player_not_found": "The player does not exist."
       }
+    },
+    "ranking": {
+      "first": "1st",
+      "second": "2nd",
+      "third": "3rd"
     }
   }
 }
