@@ -1,0 +1,12 @@
+{
+  "minigame.flash.checkpoint_reached_broadcast": "{1} reached checkpoint {2}.",
+  "minigame.flash.checkpoint_reached": "Checkpoint reached! {1}",
+  "minigame.flash.player_finished": "{1} finished.",
+  "minigame.flash.checkpoint_skipped": "You skipped a checkpoint!",
+  "minigame.flash.time_needed": "Time needed: {1}",
+  "minigame.flash.players_hidden": "Players are now hidden.",
+  "minigame.flash.players_shown": "Players are now visible.",
+  "minigame.flash.hide_players_item": "Hide players",
+  "minigame.flash.show_players_item": "Show players",
+  "minigame.flash.reset_item": "Instant-Death(TM)"
+}
