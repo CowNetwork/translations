@@ -1,0 +1,12 @@
+{
+  "minigame.flash.checkpoint_reached_broadcast": "{1} hat den {2}. Checkpoint erreicht.",
+  "minigame.flash.checkpoint_reached": "Du hast einen Checkpoint erreicht! {1}",
+  "minigame.flash.player_finished": "{1} hat das Ziel erreicht.",
+  "minigame.flash.checkpoint_skipped": "Du hast einen Checkpoint übersprungen! Du wurdest zurück teleportiert!",
+  "minigame.flash.time_needed": "Du hast insgesamt {1} Minuten benötigt.",
+  "minigame.flash.players_hidden": "Du hast alle Spieler versteckt.",
+  "minigame.flash.players_shown": "Du siehst nun alle Spieler.",
+  "minigame.flash.hide_players_item": "Spieler verstecken",
+  "minigame.flash.show_players_item": "Spieler anzeigen",
+  "minigame.flash.reset_item": "Instant-Tod(TM)"
+}
