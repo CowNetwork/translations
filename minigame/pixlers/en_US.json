@@ -276,7 +276,7 @@
     },
     "tool": {
       "clear": {
-        "name": "Clear canvas"
+        "name": "Clear canvas",
         "action_right": "{1} to delete everything on the canvas."
       },
       "color_picker": {
