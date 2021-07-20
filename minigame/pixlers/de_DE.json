@@ -276,7 +276,7 @@
     },
     "tool": {
       "clear": {
-        "name": "Alles löschen"
+        "name": "Alles löschen",
         "action_right": "{1}, um deine Leinwand zurückzusetzen."
       },
       "color_picker": {
