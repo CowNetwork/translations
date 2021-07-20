@@ -300,7 +300,13 @@
       "shape": {
         "name": "Shape",
         "action_left": "{1} to change the shape.",
-        "action_right": "{1} twice to draw the shape."
+        "action_right": "{1} twice to draw the shape.",
+        "shapes": {
+          "line": "Line",
+          "rectangle": "Rectangle",
+          "ellipse": "Ellipse",
+          "dongus": "Dongus"
+        }
       },
       "spray_can": {
         "name": "Spray can",
