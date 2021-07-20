@@ -253,6 +253,65 @@
       "zeppelin": "Zeppelin",
       "circus": "Circus",
       "zoo": "Zoo"
+    },
+    "action": {
+      "right": "Right-click",
+      "left": "Left-click"
+    },
+    "color": "Color: {1}",
+    "phases": {
+      "draw": {
+        "info_title": "The topic to draw",
+        "info_chat": "Topic to draw: {1}"
+      },
+      "rate": {
+        "item": "Select your favourite",
+        "selected": "You selected the canvas {1} by {2}.",
+        "canvas": {
+          "first": "in the top left",
+          "second": "in the top right",
+          "third": "at the bottom"
+        }
+      }
+    },
+    "tool": {
+      "clear": {
+        "name": "Clear canvas"
+        "action_right": "{1} to delete everything on the canvas."
+      },
+      "color_picker": {
+        "name": "Color selector",
+        "action_right": "{1} to select a color."
+      },
+      "eraser": {
+        "name": "Eraser",
+        "action_left": "{1} to adjust the size.",
+        "action_right": "{1} to erase."
+      },
+      "fill": {
+        "name": "Bucket",
+        "action_right": "{1} to fill the region."
+      },
+      "paint": {
+        "name": "Pencil",
+        "action_left": "{1} to adjust the size..",
+        "action_right": "{1} to draw."
+      },
+      "shape": {
+        "name": "Shape",
+        "action_left": "{1} to change the shape.",
+        "action_right": "{1} twice to draw the shape."
+      },
+      "spray_can": {
+        "name": "Spray can",
+        "action_left": "{1} to adjust the size.",
+        "action_right": "{1} to draw."
+      },
+      "state": {
+        "name": "Redo & Undo",
+        "action_left": "{1} to redo a change.",
+        "action_right": "{1} to undo a change."
+      }
     }
   }
 }
