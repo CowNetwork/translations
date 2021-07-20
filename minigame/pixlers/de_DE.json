@@ -300,7 +300,13 @@
       "shape": {
         "name": "Form",
         "action_left": "{1}, um die Form zu wechseln.",
-        "action_right": "{1} zweimal, um die Form zu zeichnen."
+        "action_right": "{1} zweimal, um die Form zu zeichnen.",
+        "shapes": {
+          "line": "Linie",
+          "rectangle": "Rechteck",
+          "ellipse": "Ellipse",
+          "dongus": "Dongus"
+        }
       },
       "spray_can": {
         "name": "Sprühdose",
