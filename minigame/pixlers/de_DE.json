@@ -253,6 +253,65 @@
       "zeppelin": "Zeppelin",
       "circus": "Zirkus",
       "zoo": "Zoo"
+    },
+    "action": {
+      "right": "Rechtsklicke",
+      "left": "Linksklicke"
+    },
+    "color": "Farbe: {1}",
+    "phases": {
+      "draw": {
+        "info_title": "Dieser Begriff muss gemalt werden",
+        "info_chat": "Dieser Begriff muss gemalt werden: {1}"
+      },
+      "rate": {
+        "item": "Wähle deinen Favoriten",
+        "selected": "Du hast das Bild {1} von {2} ausgewählt.",
+        "canvas": {
+          "first": "oben links",
+          "second": "oben rechts",
+          "third": "unten"
+        }
+      }
+    },
+    "tool": {
+      "clear": {
+        "name": "Alles löschen"
+        "action_right": "{1}, um deine Leinwand zurückzusetzen."
+      },
+      "color_picker": {
+        "name": "Pipette",
+        "action_right": "{1}, um eine Farbe auszuwählen."
+      },
+      "eraser": {
+        "name": "Radiergummi",
+        "action_left": "{1}, um die Größe zu verändern.",
+        "action_right": "{1}, um zu radieren."
+      },
+      "fill": {
+        "name": "Eimer",
+        "action_right": "{1}, um den Bereich zu füllen."
+      },
+      "paint": {
+        "name": "Stift",
+        "action_left": "{1}, um die Größe zu verändern.",
+        "action_right": "{1}, um zu zeichnen."
+      },
+      "shape": {
+        "name": "Form",
+        "action_left": "{1}, um die Form zu wechseln.",
+        "action_right": "{1} zweimal, um die Form zu zeichnen."
+      },
+      "spray_can": {
+        "name": "Sprühdose",
+        "action_left": "{1}, um die Größe zu verändern.",
+        "action_right": "{1}, um zu zeichnen."
+      },
+      "state": {
+        "name": "Wiederherstellen &  Rückgängig",
+        "action_left": "{1}, um eine Aktion wiederherzustellen.",
+        "action_right": "{1}, um eine Aktion rückgängig zu machen."
+      }
     }
   }
 }
