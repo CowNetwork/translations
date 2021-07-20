@@ -266,7 +266,7 @@
       },
       "rate": {
         "item": "Wähle deinen Favoriten",
-        "selected": "Du hast das Bild {1} von {2} ausgewählt.",
+        "selected": "Du hast die Leinwand {1} von {2} ausgewählt.",
         "canvas": {
           "first": "oben links",
           "second": "oben rechts",
