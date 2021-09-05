@@ -317,6 +317,11 @@
         "name": "Wiederherstellen &  Rückgängig",
         "action_left": "{1}, um eine Aktion wiederherzustellen.",
         "action_right": "{1}, um eine Aktion rückgängig zu machen."
+      },
+      "speed": {
+        "name": "Geschwindigkeit",
+        "action_left": "{1}, um die Geschwindigkeit zu erhöhen.",
+        "action_right", "{1}, um die Geschwindigkeit zu verringern."
       }
     }
   }
