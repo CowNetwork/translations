@@ -321,7 +321,7 @@
       "speed": {
         "name": "Geschwindigkeit",
         "action_left": "{1}, um die Geschwindigkeit zu erhöhen.",
-        "action_right", "{1}, um die Geschwindigkeit zu verringern."
+        "action_right": "{1}, um die Geschwindigkeit zu verringern."
       }
     }
   }
