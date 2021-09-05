@@ -1,5 +1,16 @@
 {
   "minigame.pixlers": {
+    "commands": {
+      "done": {
+        "error_wrong_phase": "Du kannst das in dieser Phase nicht machen.",
+        "error_already_done": "Du hast diesen Befehl bereits ausgeführt.",
+        "success": "{1} von {2} Spielern sind fertig. Benutze {3} wenn du fertig bist."
+      },
+      "pixlers": {
+        "success_time": "Die Zeit wurde auf {1} Sekunden gesetzt.",
+        "success_topic": "Das Thema wurde auf {1} gesetzt."
+      }
+    },
     "topics": {
       "tow_truck": "Abschleppwagen",
       "roller_coaster": "Achterbahn",
