@@ -1,5 +1,16 @@
 {
   "minigame.pixlers": {
+    "commands": {
+      "done": {
+        "error_wrong_phase": "You can't do that in this phase.",
+        "error_already_done": "You already marked your painting as done.",
+        "success": "{1} of {2} players are done. Use {3} when your are done."
+      },
+      "pixlers": {
+        "success_time": "The drawing time has been set to {1} seconds.",
+        "success_topic": "The topic has been set to {1}."
+      }
+    },
     "topics": {
       "tow_truck": "Tow Truck",
       "roller_coaster": "Roller Coaster",
