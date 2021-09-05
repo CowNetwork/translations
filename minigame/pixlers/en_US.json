@@ -317,6 +317,11 @@
         "name": "Redo & Undo",
         "action_left": "{1} to redo a change.",
         "action_right": "{1} to undo a change."
+      },
+      "speed": {
+        "name": "Fly Speed",
+        "action_left": "{1} to increase the speed.",
+        "action_right", "{1} to reduce the speed."
       }
     }
   }
