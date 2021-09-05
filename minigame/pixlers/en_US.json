@@ -321,7 +321,7 @@
       "speed": {
         "name": "Fly Speed",
         "action_left": "{1} to increase the speed.",
-        "action_right", "{1} to reduce the speed."
+        "action_right": "{1} to reduce the speed."
       }
     }
   }
