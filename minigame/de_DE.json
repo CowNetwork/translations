@@ -22,8 +22,8 @@
         "plural": "Das Spiel startet in {1}."
       },
       "shutdown": {
-        "singular": "Die Server stoppt in {1}.",
-        "plural": "Die Server stoppt in {1}."
+        "singular": "Der Server stoppt in {1}.",
+        "plural": "Der Server stoppt in {1}."
       }
     },
     "pools": {
